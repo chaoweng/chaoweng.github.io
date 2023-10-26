@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-postdoc at Penn State. working with Prof Sean Hallgren.
+I am currently a postdoc working with Prof Sean Hallgren in the [CS theory group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Next spring, I will join University of Cincinnati as a tenure-track assistant professor in Deparment of Computer Science. I have a Ph.D. in computer science and engineering from the State University of New York at Buffalo.
 
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
