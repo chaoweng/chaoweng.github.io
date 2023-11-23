@@ -11,7 +11,7 @@ nav_order: 5
 Introduction to Theory of Computation (Spring,2023)
 
 ### University at Buffalo
-Introduction to Algorithms (Summer, 2017)
+Introduction to Algorithms (Summer, 2017)  
 Introduction to Algorithms (Summer, 2016)
 
 
