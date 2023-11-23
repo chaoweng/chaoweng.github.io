@@ -20,6 +20,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am currently a postdoc working with Prof Sean Hallgren in the [CS theory group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Next spring, I will join University of Cincinnati as a tenure-track assistant professor in Deparment of Computer Science. I have a Ph.D. in computer science and engineering from the State University of New York at Buffalo.
 
+I am interested in theoretical computer science in general. Recently, my research mainly focuses on studying specific problems in which quantum computers demonstrates provable advantages compared to classical ones. 
+
 
 <!--
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
