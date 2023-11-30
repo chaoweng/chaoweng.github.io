@@ -18,9 +18,14 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+# Biography
 I am currently a postdoc working with Prof Sean Hallgren in the [CS theory group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Next spring, I will join University of Cincinnati as a tenure-track assistant professor in Deparment of Computer Science. I have a Ph.D. in computer science and engineering from the State University of New York at Buffalo.
 
 I am interested in theoretical computer science in general. Recently, my research mainly focuses on studying specific problems in which quantum computers demonstrates provable advantages compared to classical ones. 
+
+# Open Positions
+Two computer science Ph.D. positions available in my group at UC starting Spring 2024! Click here for details.
 
 
 <!--
