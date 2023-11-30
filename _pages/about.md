@@ -27,7 +27,7 @@ I am interested in theoretical computer science in general. Recently, my researc
 
 
 # Open Positions
-Two computer science Ph.D. positions available in my group at UC starting Spring 2024! Click here for details.
+Two computer science Ph.D. positions available in my group at UC starting Spring 2024! Click here for [details](/people/).
 
 
 <!--
