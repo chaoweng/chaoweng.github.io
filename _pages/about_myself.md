@@ -12,7 +12,7 @@ Feel free to drop me an email to "guance [at] ucmail.uc.edu" including the follo
 - Your background and research interests in several sentences.
 - Attach your CV, transcript, and a representative writing sample (paper/preprint if any).
 
-
+<br/><br/>
 ### [Why Cincinnati?](https://www.uc.edu/why-cincinnati.html)
 ### [Living in Cincinnati](https://www.uc.edu/news/articles/2022/04/living-in-cincinnati--what-we-love-about-life-in-the-queen-city.html)
 ### [Things to do in Cincinnati](https://med.uc.edu/education/education-resources/cincinnati)
