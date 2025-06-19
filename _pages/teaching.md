@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 ### University of Cincinnati
-Advanced Algorithms I (Fall, 2025)
-Introduction to Quantum Computation (Fall, 2024)
-AI principles and applications (Spring, 2024)
+Advanced Algorithms I (Fall, 2025)  
+Introduction to Quantum Computation (Fall, 2024)  
+AI principles and applications (Spring, 2024) 
 
 ### Penn State University
 Introduction to Theory of Computation (Spring,2023)
