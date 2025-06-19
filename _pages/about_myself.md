@@ -2,11 +2,13 @@
 postdoc at Penn State. working with Prof Sean Hallgren.
 -->
 
-I'm Chaowen Guan, an Assistant Professor of Computer Science at University of Cincinnati starting Jan 2024. Before that, I received my PhD in Computer Science from the State University of New York at Buffalo in 2020. Now I'm postdoctoral Scholar in the [CS Theory Group](https://theory.cse.psu.edu/) at the Pennsylvania State University.
+I am Chaowen Guan, an Assistant Professor of Computer Science at University of Cincinnati starting Jan 2024. Prior to that, I was a postdoctoral Scholar in the [CS Theory Group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Before that, I received my PhD in Computer Science from the State University of New York at Buffalo in 2020.
 
 Currently, my research interests are about quantum algorithms and its applications to real-life problems, such as chemistry, material science, etc.
 
+<!--
 I’m looking for two CS PhD students to join my group at UC. Both positions will be fully funded. More information can be found in [CS PhD program website](https://ceas.uc.edu/academics/departments/computer-science/degrees-programs/computer-science-engineering-phd.html)
+-->
 
 ### Join us! 
 Feel free to drop me an email to "guance [at] ucmail.uc.edu" including the following information. Hope to see you in Cincinnati in 2024!
