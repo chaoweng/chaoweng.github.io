@@ -1,4 +1,6 @@
+<!--
 postdoc at Penn State. working with Prof Sean Hallgren.
+-->
 
 I'm Chaowen Guan, an Assistant Professor of Computer Science at University of Cincinnati starting Jan 2024. Before that, I received my PhD in Computer Science from the State University of New York at Buffalo in 2020. Now I'm postdoctoral Scholar in the [CS Theory Group](https://theory.cse.psu.edu/) at the Pennsylvania State University.
 
