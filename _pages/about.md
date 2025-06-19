@@ -26,8 +26,9 @@ I am interested in theoretical computer science in general. Recently, my researc
 <br/><br/>
 
 
-## Open Positions
-Two computer science Ph.D. positions available in my group at UC starting Spring 2024! Feel free to reach out. Click here for more [details](/people/).
+## Openings
+There is currently one open <b>Ph.D.<b/> position in my research group at UC! If you are a master or undergraduate student looking for research projects in this field of quantum computing, you are welcomed to reach out as well!
+If you do so, please inclue your CV and a digital copy of your transcripts in the email. Click here for more [details](/people/). 
 
 
 <!--
