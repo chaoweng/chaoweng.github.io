@@ -20,9 +20,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 # Biography
-I am currently an assistant professor in Department of Computer Science at University of Cincinnati. Prior to that, I was a postdoc working with Prof Sean Hallgren in the [CS theory group](https://theory.cse.psu.edu/) at the Pennsylvania State University. I have a Ph.D. in computer science and engineering from the State University of New York at Buffalo. Before the pursuit of my Ph.D., I was a research engineer at Singapore Management University, working under the supervision of Prof Robert Deng. Before that, I received my Bachalor degree from Jinan University, Guangzhou.
+I am currently an assistant professor in Department of Computer Science at University of Cincinnati. Prior to that, I was a postdoc working with Prof Sean Hallgren in the [CS theory group](https://theory.cse.psu.edu/) at the Pennsylvania State University. I have a Ph.D. in computer science and engineering from the State University of New York at Buffalo. 
 
-I am interested in theoretical computer science in general. Recently, my research mainly focuses on studying specific problems in which quantum computers demonstrates provable advantages compared to classical ones. 
+I am interested in theoretical computer science in general. Recently, my research mainly focuses on designing quantum algorithms that demonstrate provable advantages compared to classical ones. 
 <br/><br/>
 
 
