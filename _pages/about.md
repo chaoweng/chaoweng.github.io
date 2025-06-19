@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
@@ -28,7 +28,8 @@ I am interested in theoretical computer science in general. Recently, my researc
 
 ## Openings
 There is currently one open <b>Ph.D.<b/> position in my research group at UC! If you are a master or undergraduate student looking for research projects in this field of quantum computing, you are welcomed to reach out as well!
-If you do so, please inclue your CV and a digital copy of your transcripts in the email. Click here for more [details](/people/). 
+
+If you do so, please inclue your CV and a digital copy of your transcripts in the email. More information can be found in [CS PhD program website](https://ceas.uc.edu/academics/departments/computer-science/degrees-programs/computer-science-engineering-phd.html). 
 
 
 <!--
