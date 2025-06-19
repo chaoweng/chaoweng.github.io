@@ -2,7 +2,7 @@
 postdoc at Penn State. working with Prof Sean Hallgren.
 -->
 
-I am Chaowen Guan, an Assistant Professor of Computer Science at University of Cincinnati starting Jan 2024. Prior to that, I was a postdoctoral Scholar in the [CS Theory Group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Before that, I received my PhD in Computer Science from the State University of New York at Buffalo in 2020.
+I am Chaowen Guan, an Assistant Professor of Computer Science at University of Cincinnati starting Jan 2024. Prior to that, I was a postdoctoral Scholar in the [CS Theory Group](https://theory.cse.psu.edu/) at the Pennsylvania State University. Before that, I received my PhD in Computer Science from the State University of New York at Buffalo in 2020. Before the pursuit of my Ph.D., I was a research engineer at Singapore Management University, working under the supervision of Prof Robert Deng. Before that, I received my Bachalor degree from Jinan University, Guangzhou.
 
 Currently, my research interests are about quantum algorithms and its applications to real-life problems, such as chemistry, material science, etc.
 
