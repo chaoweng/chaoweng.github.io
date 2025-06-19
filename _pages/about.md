@@ -9,9 +9,9 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> </p>
-    <p> </p>
-    <p>Cincinnati, OH </p>
+    <p>Assistant Professor </p>
+    <p> Department of Computer Science </p>
+    <p>University of Cincinnati </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
